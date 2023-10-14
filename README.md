@@ -8,16 +8,13 @@ A collection of one-liners, small scripts, and some useful tips for blue team wo
 I've included screenshots where possible so you know what you're getting. 
 
 ## Contact me
-If you see a mistake, or have an easier way to run a command then you're welcome to hit me up on [Twitter](https://twitter.com/Purp1eW0lf) or commit an issue here. 
+If you see a mistake, or have an easier way to run a command then you're welcome to hit me up on [LinkedIn](www.linkedin.com/in/blessed-uyo) or at my simple [Portfolio] (http://www.blesseduyo.com) BTW, I do not have SSL on it hahaha. 
 
 If you want to contribute I'd be grateful for the command and a screenshot. I'll of course add you as a contributor
 
 ## Did the Notes help?
 
 I hope the Blue Team Notes help you catch an adversary, thwart an attack, or even just helps you learn.
-If you've benefited from the Blue Team Notes, would you kindly consider making a donation to one or two charities. 
-
-Donate as much or little money as you like, of course. I have some UK charities you could donate to: [Great Ormond Street - Children's hospital](https://www.gosh.org/_donate/?amount=3&frequency=single&campaign=1284), [Cancer Research](https://donate.cancerresearchuk.org/support-us/your-donation?type=single&amount=3), and [Feeding Britain - food charity](https://feedingbritain.org/donate/)
 
 ## Table of Contents
 - [Shell Style](#shell-style)
