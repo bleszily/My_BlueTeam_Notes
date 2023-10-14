@@ -8,7 +8,7 @@ A collection of one-liners, small scripts, and some useful tips for blue team wo
 I've included screenshots where possible so you know what you're getting. 
 
 ## Contact me
-If you see a mistake, or have an easier way to run a command then you're welcome to hit me up on [LinkedIn](www.linkedin.com/in/blessed-uyo) or at my simple [Portfolio] (http://www.blesseduyo.com) BTW, I do not have SSL on it hahaha. 
+If you see a mistake, or have an easier way to run a command then you're welcome to hit me up on [LinkedIn](https://linkedin.com/in/blessed-uyo) or on my simple [Portfolio](http://www.blesseduyo.com) or, commit an issue here. 
 
 If you want to contribute I'd be grateful for the command and a screenshot. I'll of course add you as a contributor
 
@@ -5772,4 +5772,5 @@ You can probably also find some stuff from the [Jumplist](#jump-lists) and LNK a
 ![image](https://user-images.githubusercontent.com/44196051/165262935-a3959f04-bd0f-421f-ab88-a50e494e7a75.png)
 
 
-
+```More to come!
+```
